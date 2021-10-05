@@ -18,11 +18,9 @@ This resources should be used alongside the slides in the current repo for a 6h 
 
 - Presentations by Netflix : [Cassandra Use Cases a netflix](https://www.youtube.com/watch?v=BODvXsQYyaY)
 
-*Need to sign (free Account)*
-- [DataStax Academy course 101](https://academy.datastax.com/#/online-courses/0da20519-364d-47a9-9916-b59c02175393)
+- [DataStax Academy course 101](https://academy.datastax.com/#/online-courses/0da20519-364d-47a9-9916-b59c02175393)*Need to sign (free Account)*
 
-*Need to sign (free Account)*
-- [DataStax Academy course 201](https://academy.datastax.com/#/online-courses/6167eee3-0575-4d88-9f80-f2270587ce23)
+- [DataStax Academy course 201](https://academy.datastax.com/#/online-courses/6167eee3-0575-4d88-9f80-f2270587ce23) *Need to sign (free Account)*
 
 - [Workshop Introduction to NoSQL](https://github.com/datastaxdevs/workshop-introduction-to-nosql)
 
@@ -46,11 +44,28 @@ This resources should be used alongside the slides in the current repo for a 6h 
 
 ### Resources
 
-
+- [DS220 Data Modelling with Cassandra](https://academy.datastax.com/#/online-courses/ca2e1209-510b-44a6-97de-d5219d835319)
 
 ### Hands-on
 
+- [Try It Out: Cassandra Data Modeling](https://www.datastax.com/dev/modeling)
 
+- [Timeseries Data Modelling](https://www.datastax.com/learn/data-modeling-by-example/time-series-model)
 
+## 3. Application Developements
 
+### Resources
 
+- [Sample Code drivers 3x and 4x](https://github.com/DataStax-Examples/java-cassandra-driver-from3x-to4x)
+
+- [Rest, GraphQL and gRPC Apis with Cassandra](https://github.com/datastaxdevs/conference-2020-javafest-api) 
+
+- [Spring Boot and Cassandra](https://github.com/DataStax-Academy/microservices-java-workshop-online)
+
+- [Best practices with Spring Data Cassandra](docs/Spring Data Cassandra & DataStax.pdf)
+
+- [Spring Data 3x and Drivers 4x](docs/Spring Data Cassandra 3.x and Drivers 4.x)
+
+### Hands-on
+
+- [Cassandra and Spring](https://www.datastax.com/dev/spring)
