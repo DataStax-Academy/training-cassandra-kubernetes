@@ -8,6 +8,10 @@ This resources should be used alongside the slides in the current repo for a 6h 
 
 1. [Apache Cassandra™ Fundamentals](cassandra-kubernetes#1-apache-cassandra-fundamentals)
 2. [Data Modelling](https://github.com/DataStax-Academy/training-cassandra-kubernetes#2-data-modelling)
+3. [Application Developments](https://github.com/DataStax-Academy/training-cassandra-kubernetes#3-application-developements)
+4. [Kubernetes Fundamentals](https://github.com/DataStax-Academy/training-cassandra-kubernetes/blob/main/README.md#4-kubernetes-fundamentals)
+5. [Kubernetes and Cassandra](https://github.com/DataStax-Academy/training-cassandra-kubernetes/blob/main/README.md#5-kubernetes-and-cassandra)
+6. [K8ssandra](https://github.com/DataStax-Academy/training-cassandra-kubernetes/blob/main/README.md#6-k8ssandra)
 
 ## 1. Apache Cassandra™ Fundamentals
 
@@ -52,7 +56,7 @@ This resources should be used alongside the slides in the current repo for a 6h 
 
 - [Timeseries Data Modelling](https://www.datastax.com/learn/data-modeling-by-example/time-series-model)
 
-## 3. Application Developements
+## 3. Application Developments
 
 ### Resources
 
@@ -65,6 +69,7 @@ This resources should be used alongside the slides in the current repo for a 6h 
 - [Best practices with Spring Data Cassandra](https://github.com/DataStax-Academy/training-cassandra-kubernetes/blob/main/docs/Spring%20Data%20Cassandra%20%26%20DataStax.pdf)
 
 - [Spring Data 3x and Drivers 4x](https://github.com/DataStax-Academy/training-cassandra-kubernetes/blob/main/docs/Spring%20Data%20Cassandra%203.x%20and%20Drivers%204.x.pdf)
+
 ### Hands-on
 
 - [Cassandra and Spring](https://www.datastax.com/dev/spring)
@@ -76,6 +81,8 @@ This resources should be used alongside the slides in the current repo for a 6h 
 - Conference Apache Con [https://github.com/datastaxdevs/conference-2021-apachecon-stargate]
 
 ### Hands-on
+
+
 
 ## 5. Kubernetes and Cassandra
 
