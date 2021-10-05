@@ -1,4 +1,14 @@
-# training-cassandra-kubernetes
+# Training Apache Cassandra and Kubernetes
+
+This resources should be used alongside the slides in the current repo for a 6h training on how to run Cassandra in Kubernetes. For any question please ping [cedrick.lunven@datastax.com](mailto:cedrick.lunven@datastax.com)
+
+
+
+## Table of Content
+
+1. [Apache Cassandra™ Fundamentals](cassandra-kubernetes#1-apache-cassandra-fundamentals)
+2. [Data Modelling](https://github.com/DataStax-Academy/training-cassandra-kubernetes#2-data-modelling)
+
 
 ## 1. Apache Cassandra™ Fundamentals
 
