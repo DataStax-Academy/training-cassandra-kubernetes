@@ -62,10 +62,31 @@ This resources should be used alongside the slides in the current repo for a 6h 
 
 - [Spring Boot and Cassandra](https://github.com/DataStax-Academy/microservices-java-workshop-online)
 
-- [Best practices with Spring Data Cassandra](docs/Spring Data Cassandra & DataStax.pdf)
+- [Best practices with Spring Data Cassandra](https://github.com/DataStax-Academy/training-cassandra-kubernetes/blob/main/docs/Spring%20Data%20Cassandra%20%26%20DataStax.pdf)
 
-- [Spring Data 3x and Drivers 4x](docs/Spring Data Cassandra 3.x and Drivers 4.x)
-
+- [Spring Data 3x and Drivers 4x](https://github.com/DataStax-Academy/training-cassandra-kubernetes/blob/main/docs/Spring%20Data%20Cassandra%203.x%20and%20Drivers%204.x.pdf)
 ### Hands-on
 
 - [Cassandra and Spring](https://www.datastax.com/dev/spring)
+
+## 4. Kubernetes Fundamentals
+
+### Resources
+
+- Conference Apache Con [https://github.com/datastaxdevs/conference-2021-apachecon-stargate]
+
+### Hands-on
+
+## 5. Kubernetes and Cassandra
+
+### Resources
+
+### Hands-on
+
+## 6. K8ssandra
+
+### Resources
+
+### Hands-on
+
+
